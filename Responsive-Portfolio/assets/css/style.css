@@ -8,7 +8,7 @@ header {
     width: 100%;
     background-color: #ffffff;
     border: 1px solid #cccccc;
-    display: inline-block;
+    display: static;
 }
 
 .name {
@@ -164,3 +164,35 @@ form {
     padding-top: 14px;
     padding-right: 240px;
 }
+
+@media only screen and (max-width:980px) {
+    /* full screen */
+    .wrapper {
+      width: 80%;
+      padding: 0;
+    }
+    .header {
+      width: 100%;
+    }
+  }
+  @media only screen and (max-width:768px) {
+    /* Tablets */
+    .name, .wrapper, .footer, header {
+      width: 100%;
+    }
+
+    @media only screen and (max-width:640px) {
+        /* Mobile phones landscape */
+        .name, .wrapper, .footer, .header{
+          width: 100%;
+          margin: 0;
+        }
+
+        /* Needed more time. */
+
+        /* need to have name responsive*/
+
+        /* need to have links clear name header*/
+
+        /* not a finished product */
+
