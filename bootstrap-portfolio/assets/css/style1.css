@@ -1,0 +1,72 @@
+body {
+    background-color: lightgrey;
+}
+
+.container-sm {
+    background-color: #ffffff;
+}
+
+p   {
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+}
+
+.navbar {
+    background-color: #ffffff;
+}
+
+.navbar-nav {
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+}
+
+.my-row {
+    background-color: #ffffff;
+    border-bottom:solid #cccccc
+  }
+
+.nav-link {
+    color: #cccccc
+
+  }
+    
+a {
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  }
+
+.text {
+    color:#4aaaa5
+}
+
+h2 { 
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.name {
+    color: #ffffff;   
+    background-color:#4aaaa5
+}
+
+.card-footer {  
+    background-color:#666666
+}
+
+.text-center {
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #ffffff;
+}
+
+.form-group {
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.btn {
+    background-color: #4aaaa5;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #ffffff;
+}
+
+label {
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color:#666666
+}
