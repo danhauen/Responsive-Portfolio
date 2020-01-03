@@ -85,3 +85,23 @@ label {
     margin: 20px 0;
     color: #ffffff;
   }
+
+  .overlay {
+    position: absolute; 
+    bottom: 10px; 
+    background: #4aaaa5;
+    width: 100%;
+    color: #ffffff;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 20px;
+    padding: 20px;
+    text-align: center;
+  }
+
+  .image-col1 , .image-col2 {
+    position: relative;
+    width: 50%;
+    max-width: 200px;
+  }
+  
+  
