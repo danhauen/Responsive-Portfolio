@@ -70,3 +70,8 @@ label {
     font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     color:#666666
 }
+
+.footer-margin {
+    height: 100px;
+    background-color:#666666
+  }
