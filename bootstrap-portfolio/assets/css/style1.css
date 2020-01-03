@@ -71,7 +71,17 @@ label {
     color:#666666
 }
 
-.footer-margin {
-    height: 100px;
-    background-color:#666666
+#footer {
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    height: 60px;
+    background-color:#666666;
+    border-top: 8px solid#4aaaa5;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    
+}
+.footer-block {
+    margin: 20px 0;
+    color: #ffffff;
   }
